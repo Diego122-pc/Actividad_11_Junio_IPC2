@@ -99,7 +99,7 @@ dotnet run
 Invoke-RestMethod -Uri "http://localhost:5259/api/nodos"
 
 ```
-
+![GET inicial](https://github.com/Diego122-pc/Actividad_11_Junio_IPC2/blob/master/anexos/Captura%20de%20pantalla%202026-06-11%20181345.png)
 
 
 ```bash
@@ -108,8 +108,11 @@ Invoke-RestMethod -Uri "http://localhost:5259/api/nodos" -Method POST -Body '{"i
 
 ```
 
-![POST exitoso]()
+![Post](https://github.com/Diego122-pc/Actividad_11_Junio_IPC2/blob/master/anexos/Captura%20de%20pantalla%202026-06-11%20182310.png)
+
 ### GET final (verificación)
 ``` bash
 Invoke-RestMethod -Uri "http://localhost:5259/api/nodos"
 
+```
+![GET FINAL](https://github.com/Diego122-pc/Actividad_11_Junio_IPC2/blob/master/anexos/Captura%20de%20pantalla%202026-06-11%20182303.png)
