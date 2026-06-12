@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omen\\Desktop\\IPC\\Ac2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj": {}
+    "C:\\Users\\Omen\\Desktop\\IPC\\Ac2\\Actividad_11_Junio_IPC2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omen\\Desktop\\IPC\\Ac2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj": {
+    "C:\\Users\\Omen\\Desktop\\IPC\\Ac2\\Actividad_11_Junio_IPC2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omen\\Desktop\\IPC\\Ac2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Omen\\Desktop\\IPC\\Ac2\\Actividad_11_Junio_IPC2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
         "projectName": "ApiEstructurasDemo",
-        "projectPath": "C:\\Users\\Omen\\Desktop\\IPC\\Ac2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
+        "projectPath": "C:\\Users\\Omen\\Desktop\\IPC\\Ac2\\Actividad_11_Junio_IPC2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
         "packagesPath": "C:\\Users\\Omen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omen\\Desktop\\IPC\\Ac2\\ApiEstructurasDemo\\obj\\",
+        "outputPath": "C:\\Users\\Omen\\Desktop\\IPC\\Ac2\\Actividad_11_Junio_IPC2\\ApiEstructurasDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Omen\\AppData\\Roaming\\NuGet\\NuGet.Config"
