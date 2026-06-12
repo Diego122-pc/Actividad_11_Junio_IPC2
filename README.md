@@ -99,11 +99,16 @@ dotnet run
 Invoke-RestMethod -Uri "http://localhost:5259/api/nodos"
 
 ```
+
+
+
 ```bash
 POST (crear nuevo nodo)
 Invoke-RestMethod -Uri "http://localhost:5259/api/nodos" -Method POST -Body '{"id":15,"valor":"Nuevo Nodo Derecho"}' -ContentType "application/json"
 
 ```
+
+![POST exitoso]()
 ### GET final (verificación)
 ``` bash
 Invoke-RestMethod -Uri "http://localhost:5259/api/nodos"
