@@ -96,13 +96,20 @@ dotnet run
 Consultar el estado inicial:
 
 ```bash
-curl http://localhost:5170/api/arbol
+http://localhost:5170/api/arbol
 ```
+
+![imaneg](https://github.com/Diego122-pc/Actividad_11_Junio_IPC2/blob/master/Actividad%2012_Junio/anexos/Captura%20de%20pantalla%202026-06-12%20182616.png)
 
 Insertar el nodo que dispara la RID:
 
-```bash
-curl -X POST http://localhost:5170/api/arbol/insertar ^
-  -H "Content-Type: application/json" ^
-  -d "{\"id\":20,\"etiqueta\":\"Nieto derecho\"}"
+```powershell
+Invoke-RestMethod -Uri "http://localhost:5000/api/arbol/insertar" -Method POST -Body '{"id":20,"etiqueta":"Nieto Derecho","altura":1}' -ContentType "application/json"
 ```
+
+![Terminal](https://github.com/Diego122-pc/Actividad_11_Junio_IPC2/blob/master/Actividad%2012_Junio/anexos/Captura%20de%20pantalla%202026-06-12%20182355.png)
+
+
+## Resultado final, Volver a consular
+
+![Resultado](https://github.com/Diego122-pc/Actividad_11_Junio_IPC2/blob/master/Actividad%2012_Junio/anexos/Captura%20de%20pantalla%202026-06-12%20182409.png)
