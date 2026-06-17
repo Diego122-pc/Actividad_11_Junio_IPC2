@@ -48,3 +48,5 @@ Desarrollo de una aplicación web interactiva utilizando ASP.NET Core MVC que em
 - Razor Views
 - HTTP Client (Postman / Navegador Web)
 
+[Actividad 17 de Junio](https://github.com/Diego122-pc/Actividad_11_Junio_IPC2/tree/master/Actividad_17_Junio_IPC2)
+---

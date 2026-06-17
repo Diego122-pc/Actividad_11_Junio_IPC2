@@ -52,6 +52,10 @@ Accede a la acción de listado (`/Estudiante/Listar`). La respuesta es limpia y 
 ### Evaluación de Antipatrones
 Revisa el archivo `EstudianteController.cs`. Los métodos no exceden las 20 líneas de código, cumpliendo con la regla de controladores delgados y evitando el antipatrón de Controladores Gordos (Fat Controllers).
 
+![Imagen](https://github.com/Diego122-pc/Actividad_11_Junio_IPC2/blob/master/Actividad_17_Junio_IPC2/Anexos/Captura%20de%20pantalla%202026-06-17%20174408.png)
+
+![imagen2](https://github.com/Diego122-pc/Actividad_11_Junio_IPC2/blob/master/Actividad_17_Junio_IPC2/Anexos/Captura%20de%20pantalla%202026-06-17%20174413.png)
+
 ## Parte 5: Referencias bibliográficas
 
 > Facultad de Ingeniería, USAC. (2026). Sesión 11: Modelado Base y Arquitecturas de Despliegue. Evolución de Sistemas Distribuidos, Fundamentos del Modelo Cliente-Servidor y Diseño Físico Multi-Capas (N-Tier). Laboratorio del curso Introducción a la Programación y Computación 2. Guatemala.
